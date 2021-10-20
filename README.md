@@ -1,7 +1,7 @@
 # VLCApiJava
 Java binding for VLC http api
 
-In develepment, first version ~20 November 2021
+In develepment, first version ~~~20 November 2021~~ мне хреново, дисфа, откладывается на неопределённое время, мне нужно отдохнуть
 
 
 
